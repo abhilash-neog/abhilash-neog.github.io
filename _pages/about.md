@@ -2,24 +2,25 @@
 layout: about
 title: About
 permalink: /
-subtitle: Computer Science Ph.D. Student at Virginia Tech
+subtitle: Computer Science Master's Student at Virginia Tech
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
- 
+
 
 news: News  # includes a list of news items
 latest_posts:   # includes a list of the newest posts
 selected_papers: # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Hi :wave: Welcome to my personal space !
 
-Greetings! I am currently embarking on a very special journey as a PhD student in the Computer Science department at [Virginia Tech](https://cs.vt.edu) under the guidance of my advisor [Dr. Anuj Karpatne](https://people.cs.vt.edu/karpatne/). This academic pursuit holds immense significance to me as it presents a continuous learning experience, where every step brings new insights and knowledge. As a member of the Science-Guided Machine Learning Lab, I find joy in exploring the endless possibilities of machine learning and its application in contributing back to the world of science.
+A little about me. I am a Computer Science Master's student at [Virginia Tech](https://www.vt.edu/) and I am currently working as a Graduate Research Assistant at the Knowledge-guided Machine Learning Lab under the guidance of my advisor [Prof. Anuj Karpatne](https://people.cs.vt.edu/karpatne/). Previously, I had completed by Bachelor's from [BITS Pilani, India](https://www.bits-pilani.ac.in/) in Computer Science and later worked as a Data scientist at [Oracle](https://www.oracle.com/) for a year and a half before finally joining VT.
 
-Prior to joining the PhD program, I completed my Master's here at VT, during which I had the privilege of interning at [Twitter](https://about.twitter.com/en) as an MLE Intern. My academic journey began with a Bachelor's in Electronics and Communication Engineering from [Manipal Institute of Technology, MAHE, Manipal, India](https://manipal.edu/mit.html). Before pursuing my Master's, I gained invaluable industry experience as a full-time ML engineer at [HP](https://www.hp.com/us-en/home.html), Bangalore.
+My primary research interests since undergrad have been in the Machine Learning domain. While I explored multiple diverse areas in ML during my undergrad, at Oracle, my primary area of work was Machine Learning in Financial domain. Presently, my research interests include Knowledge-guided Machine Learning, Natural Language Processing and multi-modal learning problems. Moreover, I am also interested in Applied ML research in the domains of climate science and social media analytics.
 
-Throughout this exciting path, I have developed a profound passion for interdisciplinary research. Currently, I am engrossed in exploring the intriguing realms of cell behaviors and bacteria motility behaviors, utilizing machine learning and computer vision based techniques to gain deeper insights into these fascinating phenomena.
+My current work is in Ecological forecasting using Deep Learning. The focus is on lake water quality modeling using a hybrid of Ecological and Machine Learning models. Primarily, my research involves sequential deep learning models and Time-Series (TS) forecasting, especially knowledge transfer in TS forecasting.
 
-This academic website serves as a window into my research journey and findings. I wholeheartedly welcome and encourage anyone with similar interests or curiosities to reach out and engage in thought-provoking intellectual discussions. Your insights and perspectives are invaluable to me, and I am eager to connect with fellow enthusiasts. Please feel free to drop me an email!
+Apart from academia, I love spending time outdoors, especially cycling in the beautiful trails of Blacksburg and going for hikes. Moreover, I am passionate about soccer and table tennis, and recently have started learning the violin too !

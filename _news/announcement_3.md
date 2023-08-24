@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-04-06 07:59:00-0400
+date: 2022-12-25 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-:woman_student: Embarked on a Ph.D. Journey at Virginia Tech! 
+:books: Became a Graduate Research Assistant at the Knowledge-guided Machine Learning Lab, Virginia Tech

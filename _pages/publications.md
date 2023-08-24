@@ -13,24 +13,24 @@ nav_order: 1
   <p>
     Publications are listed according to their type and in reverse chronological order.
     For an updated list please check on
-    <a href="https://scholar.google.com/citations?user=o9Gj0dMAAAAJ&hl=en">Google Scholar</a>.
-    * denotes equal contribution
+    <a href="https://scholar.google.com/citations?hl=en&user=hnU1g28AAAAJ&view_op=list_works&authuser=1">Google Scholar</a>
   </p>  
 
- 
 
+<!--
   <h4><b>Preprints</b></h4>
   {% bibliography -f papers -q @*[category=Preprints]  %}
 
   <h4><b>Workshop Papers</b></h4>
   {% bibliography -f papers -q @*[category=Workshop Papers]  %}
+-->
+  <h4><b>Journal Publications</b></h4>
+  {% bibliography -f papers -q @*[category=Journal] %}
 
 <!--
 <h3><b>Conference Proceedings</b></h3>
    bibliography -f papers -q @*[category=Conference Proceedings]  
 
-<h2>Journal Publications</h2>
-   bibliography -f papers -q @*[category=Journal Publications]  
 
   <h2>Book Chapters</h2>
    bibliography -f papers -q @*[category=Book Chapters]  

@@ -3,23 +3,23 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Medha
+first_name: Abhilash
 middle_name:
-last_name: Sawhney
-email: sawhney.medha@gmail.com
+last_name: Neog
+email: abhilash22@vt.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Computer Science Phd Student at Virginia Tech 
+  Computer Science Master's Student at Virginia Tech
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: #jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: academic-1.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: academic-1.jpeg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://sawhney-medha.github.io # the base hostname & protocol for your site
+url: https://abhilashneog.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
-last_updated: August 4th 2023
+last_updated: August 21st 2023
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -70,13 +70,13 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: sawhney-medha
+github_username: abhilash97
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: medha-sawhney
+linkedin_username: abhilash-neog-2021
 telegram_username: # your Telegram user name
-scholar_userid: o9Gj0dMAAAAJ&hl # your Google Scholar ID
+scholar_userid: hnU1g28AAAAJ&hl # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
@@ -123,7 +123,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: Blog # blog_name will be displayed in your blog page
 blog_nav_title:  #blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: Medha's Blog #a simple whitespace theme for academics
+blog_description: Abhilash's Blog #a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -272,8 +272,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Sawhney]
-  first_name: [Medha]
+  last_name: [Neog]
+  first_name: [Abhilash]
 
   style: apa
   locale: en
@@ -368,7 +368,7 @@ enable_navbar_social:       true  # enables displaying social links in the
 enable_project_categories:  true   # enables categorization of projects into
                                    # multiple categories
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
-enable_progressbar:         true   # enables a horizontal progress bar linked to the vertical scroll position
+enable_progressbar:         false   # enables a horizontal progress bar linked to the vertical scroll position
 
 # -----------------------------------------------------------------------------
 # Library versions

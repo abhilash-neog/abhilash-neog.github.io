@@ -1025,7 +1025,9 @@ div.kse-dropdown>.dropdown-menu,
     top: 94%;
 }
 
-.btn,
+.btn{
+  border: 4px solid #8B4513;
+  },
 .btn-default {
     font-family: sans-serif;
     color: #303030;
