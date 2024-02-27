@@ -6,7 +6,7 @@ subtitle: Computer Science Master's Student at Virginia Tech
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_new.jpg
   image_circular: false # crops the image to make it circular
 
 
