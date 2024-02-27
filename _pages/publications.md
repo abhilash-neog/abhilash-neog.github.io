@@ -26,7 +26,6 @@ nav_order: 1
 -->
   <h4><b>Journal Publications</b></h4>
   {% bibliography -f papers -q @*[category=Journal] %}
-  {% bibliography -f papers -q @*[category=Journal] %}
 
 <!--
 <h3><b>Conference Proceedings</b></h3>
