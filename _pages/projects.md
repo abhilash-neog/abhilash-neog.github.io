@@ -1,11 +1,10 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: Selected Projects.
+description: A list of my selected projects.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
 horizontal: false
 ---
 
@@ -41,11 +40,11 @@ horizontal: false
 
 <!-- Display projects without categories -->
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+<!-- {% assign sorted_projects = site.projects | sort: "importance" %}
 
   <!-- Generate cards for each project -->
 
-{% if page.horizontal %}
+<!-- {% if page.horizontal %}
 
   <div class="container">
     <div class="row row-cols-2">
@@ -62,4 +61,4 @@ horizontal: false
   </div>
   {% endif %}
 {% endif %}
-</div>
+</div> -->
