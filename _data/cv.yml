@@ -21,57 +21,66 @@
       year: DEC 2022 - PRESENT
       location: Blacksburg, VA, US
       description:
-        - Working on the project "Modeling Quality of Water in Lakes" to develop hybrid-ecology-ML models improve the accuracy of current standards in lake modeling as well as to discover new knowledge of lake system interactions
-        - Designed an encoder-decoder-based model and a transfer learning procedure for chlorophyll-a forecasting across different lakes
+        - Working on hybrid Ecology-ML models for a NSF-funded lake water quality modeling project
+        - Engineered a transfer learning approach to address data scarcity, resulting in 20% reduction in MSE error for time-series forecasting
+        - Building a Foundation Model for Lake water quality forecasting to address data scarcity, diverse target variables and data types
 
-    - title: Undergraduate Researcher
+    - title: Research Assistant
       institution: <a href="https://www.bits-pilani.ac.in/advanced-data-analytics-parallel-technologies-laboratory/"> ADAPT Lab, BITS Pilani </a>
       year: JAN 2019 - DEC 2019
       location: Pilani, India
       description:
         - Contributed to the development of a Domain Specific Language (DWARF) for Data Mining
         - Performed domain pattern analysis of classification algorithms, that helped in designing generalized language constructs
-        - Designed an OOP-based classification model (in C++) and a pipeline with an aim to support existing as well as new algorithm implementations
+        - Designed an OOP-based classification model and a pipeline with an aim to support existing as well as new algorithm implementations
 
     - title: Research Intern
       institution: <a href="https://www.ceeri.res.in/"> CSIR CEERI, Pilani </a>
       year: AUG 2018 - DEC 2018
       location: Pilani, India
       description:
-        - Developed a CNN-based model for Hyper-spectral image classification. Incorporated PCA and F-norm value computation for feature extraction. Achieved 6% accuracy improvement over a simple CNN, on Indian Pines Dataset
-        - Designed a kohonen’s SOM model with 6% and 7% quantization error on Indian Pines dataset and a hyperspectral time-series data, respectively
+        - Developed a CNN model with PCA and F-norm value computation for feature extraction. Achieved 6% accuracy improvement over a simple CNN, on Indian Pines Dataset
+        - Designed a kohonen’s SOM model with low quantization error on Indian Pines dataset and a hyperspectral time-series data
+
+    - title: Student Researcher
+      institution: BITS Pilani </a>
+      year: JAN 2018 - APRIL 2018
+      location: Pilani, India
+      description:
+        - Proposed a hybrid optimization technique based on the nature-inspired algorithms - BBBC, GSA, SDS
+        - Developed a face recognition algorithm using the proposed technique which yielded better results compared to traditional face recognition using eigenfaces (tested on LFW, ORL datasets)
+        - The hybrid optimization technique produced acceptable results on benchmark testing done on the CEC 2015 benchmark functions
 
 - title: Industry Experience
   type: time_table
   contents:
-    - title: AI R&D Intern
+    - title: Machine Learning Engineer Intern
       institution: <a href="https://www.kryptowirelabs.com/"> ThinkSense Inc. </a>
       year: MAY 2023 - AUG 2023
       location: McLean, VA, USA
       description:
-        - Built a Binary Classification-based outlier detection model for denoising sensor-based Human Activity Recognition (HAR) data
-        - Explored other approaches like forecasting with deep learning models (like Simple LSTM, DeepAR) and statistical techniques like noise filters, for performing outlier detection in time-series data
-        - Built and deployed a Human Activity Recognition classification model in an android application, using TensorFlow and TensorFlowLite
+        - Developed a MLP-based outlier detection model for denoising sensor-based Human Activity Recognition (HAR) data
+        - Built and deployed a CNN-based HAR model achieving 82% F-1 score on an android app using TensorFlow and TensorFlow Lite
 
     - title: Data Scientist
       institution: <a href="https://www.netsuite.com/portal/products/analytics/data-warehouse.shtml"> Oracle </a>
       year: SEPT 2020 - JULY 2022
       location: Bengaluru, India
       description:
-        - Developed analytic applications using Python and Spark. Performed data processing, ML modeling, app packaging, data modelling and deployment in ETL pipeline.
-        - Built Account Receivable Prediction application using GBT Regression in SparkML
-        - Built a Demand Prediction application for multiple time-series forecasting using GluonTS’s DeepAR model
-        - (Patent filed) Developed a cascading-like classification algorithm, involving language models (HuggingFace, FastText), pattern matching, techniques like NER & POS tagging, for an unsupervised Spend Classification app
+        - End-to-end ML model development, from data extraction to deployment on ETL pipeline, leveraging distributed Spark systems
+        - Built an Accounts Receivable Delay Prediction application using GBT Regression in SparkML, deployed to the NetSuite Warehouse
+        - Designed and deployed a Demand Prediction application for multi-time-series forecasting using the DeepAR model
+        - (Patent filed) Developed an unsupervised classification algorithm (utilizing HuggingFace, FastText models, NLP techniques like NER, POS tagging) achieving 40% higher accuracy than then SOTA LLMs on a 71k-label dataset
 
     - title: Software Development Engineer Intern
       institution: <a href="https://www.vmware.com/products/workspace-one.html"> VMware </a>
       year: JAN 2020 - JUNE 2020
       location: Bengaluru, India
       description:
-        - Developed a streamlined flow of fetching raw data from the Workspace ONE UEM platform and filtering and exposing the data to the user interface through REST APIs (in Spring Boot)
-        - Contributed to an end-user federation application on Workspace ONE Cloud by writing API clients and unit tests for automated testing of all back-end functionalities
+        - Streamlined the process of fetching and filtering raw data from Workspace ONE Cloud Platform using Spring Boot REST APIs
+        - Contributed to an end-user federation app on Workspace ONE Cloud, and wrote unit tests using JUnit and Mockito
 
-    - title: Intern
+    - title: Summer Intern
       institution: <a href="https://research.samsung.com/sri-b"> Samsung R&D Institute </a>
       year: MAY 2019 - JULY 2019
       location: Bengaluru, India
@@ -79,13 +88,12 @@
         - Performed a feasibility study of Multi-frame Noise Reduction solutions’ deployment in Live Focus for Low light conditions
         - Optimized the existing HAL call flow with considerable noise reduction in the first phase of live focus camera capture
 
-    - title: Intern
+    - title: Summer Intern
       institution: <a href="https://www.pass-consulting.com/en/"> PASS Consulting </a>
       year: MAY 2018 - JULY 2018
       location: Hyderabad, India
       description:
-        - Worked on a water SCADA system; analysed water usage pattern and designed an optimized water distribution schedule
-        - Developed a deep learning model to automate water motor valve open and close operations (in Python & Sklearn)
+        - Developed a Multi-layered Perceptron using Keras and sklearn, to automate motor valve open/close ops for a water SCADA system
 
 # - title: Extracurricular
 #   type: time_table
@@ -107,9 +115,7 @@
   type: time_table
   contents:
     - maindescription:
-       - Python (ML+Math+Stats Libraries), PyTorch, Keras, PySpark, Git
-      year: Proficient
-    - maindescription: Java, Linux, C++, C, TensorFlow
-      year: Intermediate
-    - maindescription: Spring Boot, Docker, JavaScript, Shell Scripting
-      year: Familiar
+       - Python, Java, C++, SQL, HTML, C
+      year: Languages
+    - maindescription: PyTorch, Tensorflow Keras, Git, Spark, Spring Boot
+      year: Frameworks
