@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Computer Science Master's Student at Virginia Tech
+subtitle:
 
 profile:
   align: right
