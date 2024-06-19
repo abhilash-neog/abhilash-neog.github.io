@@ -2,7 +2,7 @@
 layout: page
 title: Text Summarization of Electronic Theses and Dissertations (ETD)
 description: Built an Information Retrieval and Analysis System that can support a collection of at least 5000 Electronic Theses and Dissertations (ETDs). The system would act as a search engine, supporting a number of features, such as searching, providing recommendations, ranking search results, and browsing
-importance: 2
+importance: 4
 category: work
 redirect: https://vtechworks.lib.vt.edu/items/729c4920-eeac-45f4-9631-ff499da7a2cc
 img: assets/img/etd.jpg
