@@ -2,7 +2,7 @@
 layout: page
 title: Convergence Analysis of PINN for solving inverse PDEs
 description: The inverse PDE problem, despite being an important and impactful problem suffers from certain limitations. The primary issue is the difficulty in converging the physics-informed loss, which enforces the satisfaction of partial differential
-equations (PDEs). This is a common challenge when training Physics-Informed Neural Networks (PINNs) in general and not specific to the inverse problem. It can be attributed to several factors, and addressing these issues may help improve the convergence of the physics-informed loss. So, the goal of this project is to analyze the convergence of the PINN loss function under the inverse problem setting and consider techniques that can potentially improve the convergence problem. In this project, we primarily focus on weighing the loss terms during training. The idea is that, since the data-driven loss converges easily and the PDE loss does not, we decrease the weight of the data-driven loss with training iterations while increasing the weight of the PDE loss term.
+equations (PDEs). This is a common challenge when training Physics-Informed Neural Networks (PINNs) in general and not specific to the inverse problem.
 importance: 2
 category: work
 redirect: https://abhilash-neog.github.io/assets/pdf/pinn.pdf

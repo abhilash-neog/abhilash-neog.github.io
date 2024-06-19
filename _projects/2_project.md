@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Mathematical Reasoning in Large Language Models
-description: The proliferation of Large Language Models
-(LLMs) has significantly impacted various sectors, ranging from customer service to education. Despite their adeptness in generating human-like text, these models face challenges in tasks requiring nuanced numerical understanding, such as interpreting and processing numerical data within text. This limitation is particularly evident in generating headlines for
-news articles that include numerical information, a task requiring both semantic comprehension and numerical precision.
+description: The proliferation of Large Language Models (LLMs) has significantly impacted various sectors, ranging from customer service to education. Despite their adeptness in generating human-like text, these models face challenges in tasks requiring nuanced numerical understanding, such as interpreting and processing numerical data within text.
 importance: 2
 category: work
 redirect: https://abhilash-neog.github.io/assets/pdf/numeral_aware_language_generation.pdf
