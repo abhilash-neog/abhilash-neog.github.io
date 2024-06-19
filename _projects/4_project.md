@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Evaluating Model Reasoning and Hallucinations in Medical LLMs
+title: EVALUATING Model Reasoning and Hallucinations in Medical LLMs
 description: Analyzed and evaluated factual error propagation in open-source medical LLMs such as BioMistral, Asclepius, Alpacare, and PMC-LLaMA to identify variations in their efficacy and ensure reliable information dissemination in medical settings.
 importance: 1
 category: work
