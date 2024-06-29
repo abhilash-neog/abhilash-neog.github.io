@@ -21,4 +21,4 @@ This is a small report I prepared as a part of a final project of a grad course 
 
 A very general topic. I tried reading up on the history of social networks even before the rise of the social networks we know today. How, especially these recent internet-based social networks have impacted the human society, and how it might possibly shape into with the advent of AI.
 
-[PDF](/assets/pdf/InfluenceOfSocialNetsOnHumanSociety.pdf){: .btn}
+[Medium](https://medium.com/@abhilash22/the-influence-of-social-networks-on-human-society-d42292d5e2d5){: .btn}
