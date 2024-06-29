@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hi :wave: Welcome to my personal space !
 
-I am a CS PhD student at [Virginia Tech](https://www.vt.edu/), currently working as a Graduate Research Assistant at the Knowledge-guided Machine Learning Lab under the guidance of [Prof. Anuj Karpatne](https://people.cs.vt.edu/karpatne/). I did my Masters from Virginia Tech. Prior to that, I completed my Bachelor's from [BITS Pilani, India](https://www.bits-pilani.ac.in/) in Computer Science and later worked as a Data scientist at [Oracle](https://www.oracle.com/) for a year and a half before finally joining VT.
+I am a CS PhD student at Virginia Tech, currently working as a Graduate Research Assistant at the Knowledge-guided Machine Learning Lab under the guidance of [Prof. Anuj Karpatne](https://people.cs.vt.edu/karpatne/). I did my Masters from Virginia Tech. Prior to that, I completed my Bachelor's from BITS Pilani, India in Computer Science and later worked as a Data scientist at Oracle for a year and a half before finally joining VT.
 
 Since my undergrad, I have had a major interest in Machine Learning, and I have been fortunate enough to have explored diverse areas ranging from computer vision to natural language processing and have applied ML to variety of domains ranging from ecology to the financial sector. Presently, my research interests include Knowledge-guided Machine Learning, Natural Language Processing and Time-series modeling. Overall, I am interested in AI for Science, especially in the domains of cognitive science and climate science.
 
