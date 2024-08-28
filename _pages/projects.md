@@ -4,9 +4,9 @@ title: Projects
 permalink: /projects/
 description: Some of my selected list of projects
 nav: true
-nav_order: 2
+nav_order: 1
 display_categories: [work, fun]
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
