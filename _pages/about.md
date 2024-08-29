@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hi :wave: Welcome to my personal space !
 
-I am a CS PhD student at Virginia Tech, currently working as a Graduate Research Assistant at the [Knowledge-guided Machine Learning Lab](https://kgml-lab.github.io/) under the guidance of [Prof. Anuj Karpatne](https://people.cs.vt.edu/karpatne/). Prior to that, I completed my Bachelor's from BITS Pilani, India in Computer Science.
+I am a CS PhD student at Virginia Tech, currently working as a Graduate Research Assistant at the [Knowledge-guided Machine Learning Lab](https://kgml-lab.github.io/) under the guidance of [Prof. Anuj Karpatne](https://people.cs.vt.edu/karpatne/). Prior to that, I completed my Master's in CS from Virginia Tech and Bachelor's in CS from BITS Pilani, India in Computer Science.
 
 My research interests include Time-series modeling, AI for Science, LLM reasoning and out-of-distribution generalization. Presently, my work is in time-series modeling and Foundation models. I have recently started working on a Foundation model for lake ecosystems. Some of the challenges I am trying to address are generalization across unseen time-series distributions, cross-frequency learning and knowledge transfer from simulation to real-world data.
 
