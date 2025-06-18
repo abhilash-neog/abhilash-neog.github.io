@@ -80,24 +80,27 @@ th,
 tr,
 p,
 a {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+/*   font-family: 'Lato', Verdana, Helvetica, sans-serif; */
+  font-family: 'Montserrat', Verdana, Helvetica, sans-serif;
   font-size: 14px;
 }
 
 strong {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+/*   font-family: 'Lato', Verdana, Helvetica, sans-serif; */
   font-size: 14px;
 }
 
 h2 {
   margin: 0;
   font-weight: normal;
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+/*   font-family: 'Lato', Verdana, Helvetica, sans-serif; */
+  font-family: 'Montserrat', Verdana, Helvetica, sans-serif;
   font-size: 22px;
 }
 
 .papertitle {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+/*   font-family: 'Lato', Verdana, Helvetica, sans-serif; */
+  font-family: 'Montserrat', Verdana, Helvetica, sans-serif;
   font-size: 14px;
   font-weight: 700;
 }
@@ -105,7 +108,8 @@ h2 {
 .name {
   padding-top: 20px;
   margin: 0;
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+/*   font-family: 'Lato', Verdana, Helvetica, sans-serif; */
+  font-family: 'Montserrat', Verdana, Helvetica, sans-serif;
   font-size: 32px;
 }
 
