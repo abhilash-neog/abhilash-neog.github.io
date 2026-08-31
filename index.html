@@ -89,7 +89,7 @@ Time Series Modeling with Missing Data</i></a> - has been accepted to <a href="h
               <td style="padding:20px;width:100%;vertical-align:middle">
                 <h2>Research</h2>
                 
-		My research broadly include Scientific Foundation Models (model architecture, pretraining strategies), Time Series Modeling, Application of Multi-modal models for scientific tasks, LLMs for time-series and Physics-guided ML. 
+		<!-- My research broadly include Scientific Foundation Models (model architecture, pretraining strategies), Time Series Modeling, Application of Multi-modal models for scientific tasks, LLMs for time-series and Physics-guided ML. 
 		<p>
 		<b>Foundation Models</b>. Currently, building a foundation model for an environmental system, (<a href="https://arxiv.org/pdf/2606.11268">LakeFM'26</a>). Some of the challenges I am trying to address are pretraining strategies for training large models, learning on irregular and sparse spatio-temporal data, cross-frequency learning and knowledge transfer from (physics-based) simulation to real-world data.
 		</p>
@@ -104,11 +104,38 @@ Time Series Modeling with Missing Data</i></a> - has been accepted to <a href="h
 			1) Can Large Multimodal models reason well on scientific images of animal species? Conducted an extensive empirical evaluation of reasoning abilities of VLMs on scientific images for QA tasks (<a href="https://openreview.net/pdf?id=VHa0XNjWj2">VLM4Bio'24</a>)
 			<br>
 			2) Using Vision-Language Models for open world scene-graph generation (<a href="https://arxiv.org/pdf/2506.08189">Ow-SGG'25</a>)
+			<br>
+			3) Subject-clarity image outpainting with VLM-guided semantic conditioning and multilevel wavelet supervision
 		</p>
 
 		<p>
 		<b>Physics-guided ML</b>. Collaborating on research involving generative modeling approaches, particularly diffusion models, to solve Partial Differential Equations (PDEs) through physics-guided learning (<a href="https://arxiv.org/pdf/2512.01370">PRSIMA'25</a>).
-		</p>
+		</p> -->
+		My research broadly spans foundation models, cross-modal alignment and generative modeling, and scientific machine learning, with a particular background in modeling complex, irregular, and sparse time-series and spatiotemporal data.
+
+<p>
+<b>Cross-modal Alignment.</b> I am currently exploring how pretrained models across different modalities can be aligned to enable grounded reasoning and prediction. In particular, I am working on leveraging pretrained LLMs to inject knowledge into time-series foundation models (TSFMs) for knowledge-grounded prediction and reasoning tasks.
+</p>
+
+<p>
+<b>Generative Models and Vision-Language Models.</b> My work has explored flow-based generative models for image outpainting, incorporating VLM-guided semantic information and high-frequency information-based structural supervision. Additionally, I have collaborated on works involving Vision-Language Models (VLMs) for scientific reasoning and structured visual understanding, including:
+<br>
+1) Evaluating whether large multimodal models can reason effectively about scientific images of animal species for visual question answering (<a href="https://openreview.net/pdf?id=VHa0XNjWj2">VLM4Bio'24</a>)
+<br>
+2) Using Vision-Language Models for open-world scene graph generation (<a href="https://arxiv.org/pdf/2506.08189">OW-SGG'25</a>)
+</p>
+
+<p>
+	<b>Scientific ML and Foundation Models.</b>
+	<br>
+	1) I have worked on building foundation models for scientific and environmental systems, with a particular focus on irregular and sparse spatiotemporal data (<a href="https://arxiv.org/pdf/2606.11268">LakeFM'26</a>).
+	<br>
+	2) Additionally, I have developed model-agnostic techniques for robust modeling of irregularly sampled time-series (<a href="https://arxiv.org/pdf/2502.15785">MissTSM'25</a>).
+	<br>
+	3) I have also collaborated on research investigating generative approaches, particularly diffusion models, for solving Partial Differential Equations (PDEs) through physics-guided learning (<a href="https://arxiv.org/pdf/2512.01370">PRISMA'25</a>).
+	</p>
+	
+
 		      
               </td>
             </tr>
@@ -121,7 +148,31 @@ Time Series Modeling with Missing Data</i></a> - has been accepted to <a href="h
 		<tr>
 		  <td style="padding:20px;width:25%;vertical-align:top">
 		        <div class="one">
-		          <div class="two" id='misstsm'>
+		          <div class="two" id='subjectclarity'>
+		          	<img src='images/subject_clarity.png' style="width:100%; height:70%">
+		          </div>
+			</div>
+      		 </td>
+		  <td style="padding:20px;width:75%;vertical-align:top">
+			    <strong>
+			      <span class="papertitle">Preserving Subject Clarity in Image Outpainting with Multiscale Wavelet Supervision</span>
+			    </strong>
+			    <br>
+			    <b>Abhilash Neog</b>,
+			    Taewan Kim,
+			    Yi Wu,
+			    Xu Chen,
+			    Jian Jiao.
+			    <br>
+			    <font color="ff33ff">Under review &nbsp </font>
+			    <br>
+			    We propose a subject-clarity outpainting framework that combines VLM-guided semantic conditioning with subject-localized multilevel wavelet supervision, preserving subject fidelity without added inference cost.
+		  </td>
+	  </tr>
+		<tr>
+		  <td style="padding:20px;width:25%;vertical-align:top">
+		        <div class="one">
+		          <div class="two" id='lakefm'>
 		          	<img src='images/lakefmkdd.png' style="width:100%; height:70%">
 		          </div>
 			</div>
