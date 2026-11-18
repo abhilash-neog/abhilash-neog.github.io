@@ -202,13 +202,21 @@ button:focus-visible {
   flex-direction: column;
   align-items: center;
   gap: 6px;
-  width: 100px;
+  width: 90px;
   color: #222;
   text-align: center;
 }
 
 .logo-row .logo-wide a {
   width: 132px;
+}
+
+.logo-row .logo-compact a {
+  width: 64px;
+}
+
+.logo-row .logo-compact .logo-caption {
+  white-space: nowrap;
 }
 
 .logo-row a:hover,
@@ -242,8 +250,13 @@ button:focus-visible {
   max-height: 42px;
 }
 
+.logo-row img.logo-vt {
+  margin-bottom: 8px;
+}
+
 .logo-row img.logo-sr {
   max-height: 15px;
+  margin-bottom: 6px;
 }
 
 .logo-caption {
